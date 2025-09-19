@@ -5,3 +5,5 @@ L’obiettivo del sistema di monitoraggio è individuare se un pacchetto è di t
 ad un certo numero di bit del payload. WINDOWS 11 e UBUNTU SERVER sono collegati
 alla rete tramite bridge, WSL e WINDOWS 11 sono collegati tra loro tramite NAT eseguito
 dal pc windows.
+
+[Documento di progetto completo](./documento_progetto_ISN_Mariotti_Bruschi.pdf)
